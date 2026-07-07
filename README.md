@@ -2,6 +2,8 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+Сторінка буде доступна за адресою https://VictorKomara.github.io/vue-todo-app_studying/
+
 ## Recommended IDE Setup
 
 [VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
